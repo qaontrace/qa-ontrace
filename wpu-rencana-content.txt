@@ -3,6 +3,7 @@ rencana konten
   * ES6
   * Framework Javascript
   ^Vue
+  ^React
 - Struktur Data dasar
 - php framework
 - interview
